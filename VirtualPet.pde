@@ -5,6 +5,7 @@ void setup(){
 }
 void draw(){
   //lower body
+  fill(250);
   triangle(70,120,150,230,125,100);
   triangle(70,120,125,100,95,70);
   triangle(200,270,150,230,125,100);
