@@ -1,6 +1,4 @@
-
 void setup(){
-  //some of your code here
   size(400,400);
 }
 void draw(){
