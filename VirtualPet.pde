@@ -19,7 +19,7 @@ void draw(){
   triangle(340,340,320,325,125,100);
   
   //upper body
-  fill(255);
+  fill(200,30,10);
   triangle(170,150,200,100,95,70);
   
   //head
